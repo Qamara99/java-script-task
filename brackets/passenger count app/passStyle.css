@@ -1,0 +1,42 @@
+<style>
+body{
+    
+}
+h1{
+    color: #8E44AD
+}
+h3{
+    color: #8E44AD
+}
+
+.container{
+    position: absolute;
+   
+    top:20%;
+    left: 40.5%;
+ background-color: #EBDEF0;
+    width: 25%;
+    height: 50%;
+   
+
+}
+.button1{
+    width: 50%;
+   border-radius: 5px;
+    margin-top: 5%;
+    font-size: 25px;
+    background-color: #8E44AD;
+    color: #F5EEF8;
+    font-weight: bold
+    
+}
+.button2{
+    width: 50%;
+   border-radius: 5px;
+    margin-top: 7%;
+    font-size: 25px;
+    background-color: #8E44AD;
+    color: #F5EEF8;
+    font-weight: bold
+}
+</style>

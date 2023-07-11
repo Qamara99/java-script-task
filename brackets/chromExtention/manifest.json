@@ -1,0 +1,15 @@
+{
+    "name": "tabs and links",
+    "manifest_version": 3,
+    "version": "1.0",
+    
+    "action": {
+        "default_popup": "chrom.html",
+        "default_icon": "link.png"
+
+        
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

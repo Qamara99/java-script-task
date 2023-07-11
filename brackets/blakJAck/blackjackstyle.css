@@ -1,0 +1,29 @@
+<style>
+body{
+    
+}
+.container{
+    position: absolute;
+    top:20%;
+    left: 40.5%;
+ background-color: #EBDEF0;
+    width: 25%;
+    height: 50%;
+   
+
+}
+h1 {
+    color: #8E44AD;
+}
+
+
+button {
+   width: 50%;
+   border-radius: 5px;
+    margin-top: 5%;
+    font-size: 20px;
+    background-color: #8E44AD;
+    color: #F5EEF8;
+    font-weight: bold
+}
+</style>
